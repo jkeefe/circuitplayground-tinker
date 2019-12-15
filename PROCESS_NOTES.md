@@ -4,6 +4,11 @@
 
 Following along with [this tutorial](https://learn.adafruit.com/welcome-to-circuitpython?view=all#).
 
+## Getting Started
+
+- Plug Circuit Playground Express into computer (make sure it's a *DATA* USB cable)
+- `CIRCUITPY` will appear as a drive on the desktop.
+
 ## Setting up the serial monitoring
 
 Details from [this guide](https://learn.adafruit.com/welcome-to-circuitpython/advanced-serial-console-on-mac-and-linux).
